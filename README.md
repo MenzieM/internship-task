@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./docs/img/banner.png" alt="Pulsz banner" width="1037">
+  <img src="./docs/img/banner.png" alt="Cyber Sec Clinique logo" width="1037">
 </p>
