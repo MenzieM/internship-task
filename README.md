@@ -20,3 +20,6 @@ With this task we are trying to create a functional and visually appealling webs
 7. Does the Website Use a Responsive Design?
 8. Does the Site Have All Required Meta Descriptions?
 9. Have Images on the Site Been Optimized?
+
+## Getting Started
+Clone this repo and add you code to the cloned repo, so that we can track your contributions.
