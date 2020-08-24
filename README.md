@@ -10,7 +10,13 @@ You have been given the task to create a single page website for CyberSec Cliniq
 ### Goals and Objectives
 With this task we are trying to create a functional and visually appealling website for a cyber security and software company, focusing and the color guideline, typograpphy and images.
 
-### Design Requirements
-What additional design specifications are required for successful completion of this project? Outline all design specs and include any relevant reference materials below.
-
-### Getting Started
+### Website Checklist
+1. Do the Webpages Contain Multiple H1 Tags?
+2. Is the Website Easily Crawlable?
+3. Does the Site Have Schema.org Structured Data Where Applicable? 
+4. Does the Site Have An XML Sitemap?
+5. Are Web Pages Not Properly Optimized?
+6. Is the Robots.txt File Free of Errors?
+7. Does the Website Use a Responsive Design?
+8. Does the Site Have All Required Meta Descriptions?
+9. Have Images on the Site Been Optimized?
