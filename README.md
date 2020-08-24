@@ -5,13 +5,10 @@
 ## Design Brief : Internship Task
 
 ### Task Overview
-What is the final deliverable of this project and what problem does this deliverable solve?
+You have been given the task to create a single page website for CyberSec Clinique, a cyber security and software development company, using HTML, CSS and/of Javascript.
 
 ### Goals and Objectives
-In numbers or plain language, what are we trying to achieve with this project — and by what date do we want to accomplish that objective?
-
-### Target Audience
-As specifically as possible, who are we talking to? What are their defining demographic and psychographic characteristics?
+With this task we are trying to create a functional and visually appealling website for a cyber security and software company, focusing and the color guideline, typograpphy and images.
 
 ### Design Requirements
 What additional design specifications are required for successful completion of this project? Outline all design specs and include any relevant reference materials below.
